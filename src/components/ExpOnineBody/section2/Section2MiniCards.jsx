@@ -19,12 +19,13 @@ const Section2MiniCards = () => {
     setLoading(true);
     setError(false);
     axios
-      .get(`http://localhost:8080/plan-trip-data`)
+      .get(`https://server-db-25.herokuapp.com/plan-trip-data`)
       .then((response) => {
         setLoading(false);
         setData(response.data);
       })
       .catch((err) => {
+        setLoading(false);
         setError(true);
         console.log(`error while calling plan-trip-data`, err);
       });
@@ -44,9 +45,9 @@ const Section2MiniCards = () => {
       </Box>
       <Box>
         {loading ? (
-          <Text>Loading ....</Text>
+          <Text color="green.600">Loading ....</Text>
         ) : error ? (
-          <Text>Something went wrong ....</Text>
+          <Text color="red.600">Something went wrong ....</Text>
         ) : (
           <CardSlider
             cardData={data}
