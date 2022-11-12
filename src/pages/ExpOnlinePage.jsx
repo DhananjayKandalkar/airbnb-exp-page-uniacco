@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../components/header/Header";
-import { Box, HStack, Stack } from "@chakra-ui/react";
+import { Box, Stack } from "@chakra-ui/react";
 import Section1BigCards from "../components/ExpOnineBody/Section1/Section1BigCards";
 import Section2MiniCards from "../components/ExpOnineBody/section2/Section2MiniCards";
 import Section3MiniCards from "../components/ExpOnineBody/section3/Section3MiniCards";
