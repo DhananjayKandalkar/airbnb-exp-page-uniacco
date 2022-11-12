@@ -1,0 +1,9 @@
+.app-body {
+  padding: 3rem;
+}
+
+@media screen and (max-width: 768) {
+  .app-body {
+    padding: 1rem;
+  }
+}

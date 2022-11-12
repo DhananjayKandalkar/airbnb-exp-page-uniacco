@@ -1,0 +1,250 @@
+{
+  "plan-trip-data": [
+    {
+      "id": 1,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2496585-poster/original/e6de8fae-018d-4411-b0a3-81bbb6e4e5c3.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan The Perfect New York Vacation",
+      "price": "1,547",
+      "rating": "4.99",
+      "reviewCount": "153",
+      "country": "United States"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2488061-active_media/original/2d2c8d93-f9fc-48c3-975a-84fec4fb951c.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Design your trip to Barcelona with Gemma",
+      "price": "3,107",
+      "rating": "5.0",
+      "reviewCount": "19",
+      "country": "Spain"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2563542-poster/original/391d04f5-6823-4a9b-a7e4-c86968325e7c.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Craft a custom trip to Korea with Jay",
+      "price": "3,572",
+      "rating": "4.97",
+      "reviewCount": "60",
+      "country": "South Korea"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-3010357-poster/original/6cdd0bd4-eac2-4657-ab1f-a429ebdafe37.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Live Tulum like a local",
+      "price": "624",
+      "rating": "4.63",
+      "reviewCount": "8",
+      "country": "Mexico"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-3134396-active_media/original/e4f5bfb7-d45e-477b-a49f-e1bd7f85bcf0.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan a trip to amazing Austin",
+      "price": "2035",
+      "rating": "4.75",
+      "reviewCount": "12",
+      "country": "United States"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2596268-active_media/original/b0aa65da-e3f6-4bd2-91d3-9e2f127f348a.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "Create your Rome itinerary with Debora",
+      "price": "981",
+      "rating": "4.91",
+      "reviewCount": "43",
+      "country": "Italy"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2493134-poster/original/235ca0ba-93c9-4e39-a41e-9013bc13142e.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan a Venice Venture with Giulia",
+      "price": "2,453",
+      "rating": "5.0",
+      "reviewCount": "16",
+      "country": "Italy"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2493583-media_library/original/230e98c2-f628-4a67-94b6-dcac3e94d2eb.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan a Trip To Nashville with a Local Insider",
+      "price": "977",
+      "rating": "4.98",
+      "reviewCount": "41",
+      "country": "United States"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-3076506-active_media/original/1ea49a82-f447-40bc-8324-2d85a748b17e.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-3010357-poster/original/6cdd0bd4-eac2-4657-ab1f-a429ebdafe37.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2496585-poster/original/e6de8fae-018d-4411-b0a3-81bbb6e4e5c3.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2596268-active_media/original/b0aa65da-e3f6-4bd2-91d3-9e2f127f348a.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    }
+  ],
+
+
+
+
+  "top-sellers": [
+    {
+      "id": 1,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2340325-media_library/original/599c584e-f401-4f67-958a-18277ee7dd10.png?im_w=320",
+      "imageAlt": "",
+      "title": "Murder mystery escaped Room game",
+      "price": "1,305",
+      "rating": "4.87",
+      "reviewCount": "600",
+      "country": "Poland"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2544967-media_library/original/5ff16718-7c07-4317-a84c-fc7947c63f5d.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Holiday mood splaced drinks with dancing",
+      "price": "1,719",
+      "rating": "4.98",
+      "reviewCount": "50",
+      "country": "Germany"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2660264-media_library/original/135a8001-dd90-49fd-bd41-2429dcb917a1.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Pasta with the Grandmas",
+      "price": "2,701",
+      "rating": "4.97",
+      "reviewCount": "3328",
+      "country": "Italy"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1610894-poster/original/437c46e2-33d8-4b5c-a6a4-84d6642b2fcc.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "The circus factory",
+      "price": "2,047",
+      "rating": "4.75",
+      "reviewCount": "227",
+      "country": "Portugal"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1675585-media_library/original/bc79f5c1-3613-477e-b82f-a91527837263.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Origami and the Essence of Japan",
+      "price": "676",
+      "rating": "4.97",
+      "reviewCount": "490",
+      "country": "Japan"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2460171-media_library/original/342de641-c5ce-46f9-af16-fd34d1ecc2bd.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Thrilling murder mystery and magic",
+      "price": "150",
+      "rating": "4.92",
+      "reviewCount": "150",
+      "country": "United States"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2460171-media_library/original/342de641-c5ce-46f9-af16-fd34d1ecc2bd.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan a Venice Venture with Giulia",
+      "price": "2,453",
+      "rating": "5.0",
+      "reviewCount": "16",
+      "country": "Italy"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2493583-media_library/original/230e98c2-f628-4a67-94b6-dcac3e94d2eb.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan a Trip To Nashville with a Local Insider",
+      "price": "977",
+      "rating": "4.98",
+      "reviewCount": "41",
+      "country": "United States"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1671726-poster/original/603101f0-242d-426b-89a9-0f19e206e31d.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-3010357-poster/original/6cdd0bd4-eac2-4657-ab1f-a429ebdafe37.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-2354288-media_library/original/3e215ae0-3703-4a01-ae19-5fe3a6b2a180.jpeg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1827402-active_media/original/109175cd-581c-4ab3-bb17-a865d2b4352d.jpg?im_w=320",
+      "imageAlt": "",
+      "title": "Plan the perfect trip to sunny Miami",
+      "price": "1709",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "country": "United States"
+    }
+  ]
+}
