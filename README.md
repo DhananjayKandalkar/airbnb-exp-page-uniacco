@@ -10,8 +10,6 @@
 
 <br>
 
-## [Click to see Live Demo link »](https://uniacco-solution-dhananjay.vercel.app/)
-
 <br>
 
 ## Glimpses of project
